@@ -5,6 +5,7 @@ public class hello {
 		System.out.println("Hello World");
 		System.out.println("welcome sadashiv");
 		System.out.println("github welcoming you");
+		System.out.println("dont follow beaten path");
 
 	}
 
